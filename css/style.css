@@ -37,8 +37,20 @@ h3 {
   width: 100%;
 /**** last 3 div elements w altered background color ****/
 }
-.feature {
+.feature1 {
   background-color: lightblue;
+  height: 100px;
+  margin 10px 0;
+  width: 100%;
+}
+.feature2 {
+  background-color: blue;
+  height: 100px;
+  margin 10px 0;
+  width: 100%;
+}
+.feature3 {
+  background-color: darkblue;
   height: 100px;
   margin 10px 0;
   width: 100%;
