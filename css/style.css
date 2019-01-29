@@ -1,36 +1,45 @@
-body
+/**** defines the documents body ****/
+body {
   font-size: 14px;
 }
-
+/**** defined navigation links ****/
 nav {
   background color: yellow;
   height: 100px;
   margin-top: -10px;
   position: fixed;
   width: 100%;
-
-
+}
+/**** defined section margin and width ****/
 section {
   margin: 0 auto;
   width: 60%;
 }
-
+/**** font size and family defined for header 1 ****/
 h1 {
   font-family sans-serif;
   font-size: 2em;
 }
-
-.example, h3 {
+/**** defined padding and text alignment ****/
+h3 {
   padding-top: 30px;
   text-align center
 }
-
+/**** font size for elements in h3 ****/
 h3 {
   font-size: 1.3em;
 }
-
+/**** top 6 div elements w original background color ****/
 .element {
   background-color: green;
   height: 100px;
   margin 10px 0;
   width: 100%;
+/**** last 3 div elements w altered background color ****/
+}
+.feature {
+  background-color: lightblue;
+  height: 100px;
+  margin 10px 0;
+  width: 100%;
+}
