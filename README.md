@@ -1,1 +1,3 @@
-# css-exercise-one# css-exercise-one
+<b><h1>CSS exercises</b></h1> 
+
+Assignment one for Bloc.
